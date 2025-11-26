@@ -43,9 +43,10 @@ const Header = () => {
         </NavLink>
       </ul>
 
+
       {/* login logout */}
       <span className="py-4">
-        <button className=" bg-amber-50 text-black rounded-full py-2 px-2  hover:bg-black hover:text-white">
+        <button className=" bg-amber-50 text-black rounded-full py-2 px-2  hover:bg-black hover:text-white" >
           LOGIN
         </button>
       </span>
