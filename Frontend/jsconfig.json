@@ -1,8 +1,22 @@
+// {
+//   "compilerOptions": {
+//     "baseUrl": ".",
+//     "paths": {
+//       "@/*": ["./src/*"]
+//     }
+// }
+// }
 {
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
-    }
-}
+      "@/*": ["src/*"]
+    },
+    "checkJs": true,
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "target": "ES2023",
+    "esModuleInterop": true
+  },
+  "exclude": ["node_modules"]
 }

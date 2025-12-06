@@ -370,7 +370,7 @@ export const feedback = [
     tagline: "Transitioned to Tech — IBM Offer",
     review:
       "As a non-tech background learner, the course structure and mentor guidance made the transition smooth.",
-    name: "Varun Rao",
+    name: "Kartik Gupta",
     company: "IBM",
     linkedin: "https://www.linkedin.com/in/varun-rao",
     image: kartik,
